@@ -10,11 +10,10 @@ O sistema integra hardware, backend, banco de dados e aplicativo mobile para aut
 
 ## 📸 Preview do Projeto
 
-```md
-![Protótipo](Mídias/foto1.jpeg)
-![Aplicativo](Mídias/aplicativo.png)
-![Arquitetura do Sistema](Mídias/arquitetura.png)
-![Funcionamento](Mídias/funcionamento.gif)
+![Protótipo](midias/foto1.jpeg)
+![Aplicativo](midias/aplicativo.png)
+![Arquitetura do Sistema](midias/arquitetura.png)
+![Funcionamento](Midias/funcionamento.gif)
 
 ## Tecnologias Utilizadas
 
