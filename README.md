@@ -18,35 +18,35 @@ O sistema integra hardware, backend, banco de dados e aplicativo mobile para aut
 ## Tecnologias Utilizadas
 
 ### 🔌 Hardware
-• ESP32
-• RFID RC522
-• Módulo Relé
-• Solenoides
-• Buzzer
-• Fonte DC
+- ESP32
+- RFID RC522
+- Módulo Relé
+- Solenoides
+- Buzzer
+- Fonte DC
 
 ### 💻 Software
-• C++
-• Node.js
-• Express.js
-• MongoDB
-• React Native
+- C++
+- Node.js
+- Express.js
+- MongoDB
+- React Native
 
 ### 🛠️ Ferramentas
-• VS Code
-• Arduino IDE
-• Git & GitHub
-• Postman
+- VS Code
+- Arduino IDE
+- Git & GitHub
+- Postman
 
-### ⚙️ Funcionalidades
-• Cadastro de medicamentos
-• Controle de horários e dosagens
-• Alertas sonoros
-• Liberação automatizada de comprimidos
-• Integração entre aplicativo e ESP32
-• Comunicação via API REST
-• Identificação por RFID
-• Gerenciamento remoto de medicamentos
+## ⚙️ Funcionalidades
+- Cadastro de medicamentos
+- Controle de horários e dosagens
+- Alertas sonoros
+- Liberação automatizada de comprimidos
+- Integração entre aplicativo e ESP32
+- Comunicação via API REST
+- Identificação por RFID
+- Gerenciamento remoto de medicamentos
 
 ## 🧠 Arquitetura do Sistema
 
@@ -63,47 +63,47 @@ O aplicativo envia os dados para a API, que armazena as informações no banco d
 
 O aplicativo foi desenvolvido em React Native e permite:
 
-• Cadastro de medicamentos
-• Controle de horários
-• Configuração de dosagens
-• Gerenciamento dos medicamentos cadastrados
+- Cadastro de medicamentos
+- Controle de horários
+- Configuração de dosagens
+- Gerenciamento dos medicamentos cadastrados
 
 ## 🔌 Hardware e Automação
 
 O ESP32 é responsável por:
 
-• Controlar os atuadores de liberação
-• Acionar alertas sonoros
-• Gerenciar leitura RFID
-• Integrar a automação com a API
+- Controlar os atuadores de liberação
+- Acionar alertas sonoros
+- Gerenciar leitura RFID
+- Integrar a automação com a API
 
 ## 📂 Estrutura do Projeto
 
 medbox-iot-smart-pillbox/
-│
-├── Códigos/
-│   ├── esp32/
-│   ├── API/
-│
-├── Mídias/
-│
-├── Docs/
-│   └── Monografia Med Box
-│
-└── README.md
+- │
+- ├── Códigos/
+- │   ├── esp32/
+- │   ├── API/
+- │
+- ├── Mídias/
+- │
+- ├── Docs/
+- │   └── Monografia Med Box
+- │
+- └── README.md
 
 ## 🧪 Conceitos Aplicados
 
 Durante o desenvolvimento da MedBox, foram aplicados conhecimentos em:
 
-• Internet das Coisas (IoT)
-• Sistemas embarcados
-• APIs REST
-• Integração hardware/software
-• Desenvolvimento mobile
-• Banco de dados NoSQL
-• Arquitetura de sistemas
-• Automação industrial
+- Internet das Coisas (IoT)
+- Sistemas embarcados
+- APIs REST
+- Integração hardware/software
+- Desenvolvimento mobile
+- Banco de dados NoSQL
+- Arquitetura de sistemas
+- Automação industrial
 
 ## 📚 Documentação
 
