@@ -79,7 +79,7 @@ O ESP32 é responsável por:
 
 ## 📂 Estrutura do Projeto
 
-medbox-iot-smart-pillbox/
+  medbox-iot-smart-pillbox/
 - │
 - ├── Códigos/
 - │   ├── esp32/
