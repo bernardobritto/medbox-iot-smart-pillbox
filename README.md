@@ -13,7 +13,7 @@ O sistema integra hardware, backend, banco de dados e aplicativo mobile para aut
 ![Protótipo](midias/foto1.jpeg)
 ![Aplicativo](midias/aplicativo.png)
 ![Arquitetura do Sistema](midias/arquitetura.png)
-![Funcionamento](Midias/funcionamento.gif)
+![Funcionamento](midias/funcionamento.gif)
 
 ## Tecnologias Utilizadas
 
