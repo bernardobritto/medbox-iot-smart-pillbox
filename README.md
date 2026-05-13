@@ -80,17 +80,17 @@ O ESP32 é responsável por:
 ## 📂 Estrutura do Projeto
 
   medbox-iot-smart-pillbox/
-- │
-- ├── Códigos/
-- │   ├── esp32/
-- │   ├── API/
-- │
-- ├── Mídias/
-- │
-- ├── Docs/
-- │   └── Monografia Med Box
-- │
-- └── README.md
+ │  
+ ├── Códigos/  
+ │   ├── esp32/  
+ │   ├── API/  
+ │  
+ ├── Mídias/  
+ │  
+ ├── Docs/  
+ │   └── Monografia Med Box  
+ │  
+ └── README.md  
 
 ## 🧪 Conceitos Aplicados
 
@@ -117,8 +117,8 @@ O principal objetivo da MedBox é aumentar a adesão a tratamentos medicamentoso
 
 ## 👨‍💻 Desenvolvido por
 
-Bernardo Brito e
+Bernardo Brito e  
 Equipe Med Solutions
 
-GitHub: https://github.com/bernardobritto
+GitHub: https://github.com/bernardobritto  
 LinkedIn: https://linkedin.com/in/bernardobritoo
